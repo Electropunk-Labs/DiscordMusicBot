@@ -13,6 +13,16 @@ Example::
   !jam https://youtube.com/XXXXXXXXX
 
 
+
+Quick start
+===========
+
+- Install dependencies:
+    + `pip install discord.py[voice]`
+    + `sudo apt-get install ffmpeg libffi-dev`
+- Move `settings.py.sample to `settings.py` and replace token.
+- Run `python simple_music_bot.py`
+
 Reference
 =========
 
