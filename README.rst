@@ -17,7 +17,7 @@ Example::
 Quick start
 ===========
 
-- Install dependencies:
+- Install dependencies
     + `pip install discord.py[voice]`
     + `sudo apt-get install ffmpeg libffi-dev`
 - Move `settings.py.sample to `settings.py` and replace token.
